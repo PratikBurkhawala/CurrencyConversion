@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="text_field_placeholder">"Enter the amount"</string>
+    <string name="dropdown_label">Selected Currency Code</string>
+    <string name="help_text">Please enter the amount and select a currency code from drop-down to see the converted value in other currencies</string>
+    <string name="snackbar_button_label">Retry</string>
+</resources>

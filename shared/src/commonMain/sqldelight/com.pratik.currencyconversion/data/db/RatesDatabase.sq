@@ -1,0 +1,13 @@
+CREATE TABLE Rates (
+    code TEXT NOT NULL,
+    rates REAL NOT NULL
+);
+
+insertRates:
+INSERT INTO Rates(code, rates) VALUES (?, ?);
+
+clearTables:
+DELETE FROM Rates;
+
+getAllRates:
+SELECT * FROM Rates;
